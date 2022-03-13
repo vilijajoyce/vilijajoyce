@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 - 🔭 I’m currently evaluating the cost of overdose in Veterans with opioid use disorder.
-- 🌱 I’m learning Python and forever improving my R and SQL skills. SAS/Stata were my first languages.
+- 🌱 I’m deep-diving into R, SQL, and Python. SAS/Stata were my first languages.
 - 📫 How to reach me: [vilija@vilija.net](mailto:vilija@vilija.net)
 - 😄 Pronouns: she/her
 
