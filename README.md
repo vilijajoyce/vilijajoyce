@@ -6,6 +6,6 @@
 Here are some ideas to get you started:
 -->
 - 🔭 I’m currently evaluating outcomes and costs of care associated with pregnancy as well as opioid use disorder.
-- 🌱 I’m deep-diving into Python, R, and Power BI. Stata/SAS were my first languages.
+- 🌱 I’m deep-diving into Python and Power BI. I'm also fluent in SAS and SQL.
 - 📫 How to reach me: [vilija@vilija.net](mailto:vilija@vilija.net)
 - 😄 Pronouns: she/her
